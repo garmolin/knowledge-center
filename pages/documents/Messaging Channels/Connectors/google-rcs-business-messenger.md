@@ -35,18 +35,21 @@ Google RCS Business Messaging is built on top of the RCS standard, providing an 
 ## Why use Google RCS Business Messenger to connect with your consumers?
 
 * **Google’s compatibility API** — Google’s API determines if users are eligible to receive proactive notifications via RCS Business Messaging.
-* **Rich Messaging capabilities** — High-resolution photos, content carousels, rich cards, quick replies, GIFs, audio messaging and more provide an enriched messaging experience for consumers.
-* **No integration** — Google RCS Business Messenger is enabled inside of Android Messages, Google’s default SMS app.
+* **Rich Messaging capabilities** — High-resolution photos, content carousels, rich cards, quick replies, audio messaging and more provide an enriched messaging experience for consumers.
+* **No downloads needed** — Google RCS Business Messenger is enabled inside of Android Messages, Google’s default SMS app.
 * **Verification** — Businesses get a checkmark on their profile to show that they are verified, and their full brand name will be displayed.
 * **Custom branding** — Brands can customize the look and feel of the messaging interface to suit their business.
+* **Secure forms** — Secure forms allow brands to perform identification and authorization, share PII information to generate leads or to perform a registration process during a conversation in a PCI compliant environment.
+* **Auto messages** — Send predefined messages about events that occur automatically in the conversation.
+* **Post Conversation Survey** — Gather feedback from consumers and measure their success across all messaging channels with the Post Conversation Survey.
 
 ## How conversations start
 
-### IVR deflection
+### SmartConnect
 
 ![](/img/rcs connector 2-1.gif)
 
-Brands can deflect consumers from voice call to Google RCS Business Messaging using IVR deflection. Proactive notifications from IVR systems will allow brands to share an alert with the consumer, guiding them to continue the conversation over RCS Business Messaging.
+Brands can deflect consumers from a voice call to Google RCS Business Messaging using SmartConnect. Proactive notifications from IVR systems will allow brands to share an alert with the consumer, guiding them to continue the conversation over RCS Business Messaging.
 
 ### Business activity alerts:
 
