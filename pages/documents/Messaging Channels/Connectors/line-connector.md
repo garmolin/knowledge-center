@@ -1,5 +1,5 @@
 ---
-pagename: 'Line connector '
+pagename: 'LINE connector '
 categoryName: Messaging channels
 subCategoryName: ''
 indicator: messaging
